@@ -16,7 +16,7 @@ tags:
 
 ## 为什么使用 F-Droid
 
-葡萄诚意使用 F-Droid 的主要原因，是跟进 Termux 等应用程序的更新。想了解 Termux，请阅读《[Termux——Linux 环境 app](docs/termux.md)》。
+葡萄诚意使用 F-Droid 的主要原因，是跟进 Termux 等应用程序的更新。想了解 Termux，请阅读《[Termux——Linux 环境 app](termux.md)》。
 
 ## 下载 F-Droid
 

@@ -16,11 +16,11 @@ write a example for editing TODO.md file
 
 2024-12-30
 
-根据 Markdown 文档的文件名和 properties——标题（title）、日期（date）、时间（time）、标签（tag）等，自动在[目录](docs/contents.md)文档生成内容。
+根据 Markdown 文档的文件名和 properties——标题（title）、日期（date）、时间（time）、标签（tag）等，自动在[目录](contents.md)文档生成内容。
 
 以 grape-x1 仓库 docs 文件夹内的两个文档为例子。它们的文件名和 properties 分别如下所示。
 
-[copyright-license.md](docs/copyright-license.md)：
+[copyright-license.md](copyright-license.md)：
 
 ```markdown
 ---
@@ -34,7 +34,7 @@ tags:
 ---
 ```
 
-[document-style-guide.md](docs/document-style-guide.md)：
+[document-style-guide.md](document-style-guide.md)：
 
 ```markdown
 ---
@@ -69,15 +69,15 @@ tags:
 
 ## 指南
 
-1. [文档风格指南](docs/document-style-guide.md) 2024-12-30 16:41
+1. [文档风格指南](relative_path_to_file/document-style-guide.md) 2024-12-30 16:41
 
 ### 样例
 
-1. [样例1](docs/example.md) 2024-12-30 17:52
+1. [样例1](relative_path_to_file/example.md) 2024-12-30 17:52
 
 ## 许可证
 
-1. [版权协议](docs/copyright-license.md) 2024-12-29 22:04
+1. [版权协议](relative_path_to_file/copyright-license.md) 2024-12-29 22:04
 
 ## 无标签
 

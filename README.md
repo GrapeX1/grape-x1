@@ -14,7 +14,7 @@ E-mail: <GrapeX1@163.com>
 
 ## 目录
 
-![目录](docs/contents.md)
+请浏览「[目录](docs/contents.md)」文档（docs/contents.md）。
 
 ## License
 
