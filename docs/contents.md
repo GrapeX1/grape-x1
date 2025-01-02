@@ -7,3 +7,4 @@
 5. [F-Droid——Android 开源软件应用商店](fdroid.md)
 6. [Termux——Linux 环境 app](termux.md)
 7. [Git——傻瓜式内容跟踪器](git.md)
+8. [版本规范](version-specification.md)
