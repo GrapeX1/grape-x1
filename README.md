@@ -1,5 +1,7 @@
 # grape-x1
 
+[grape-x1](https://github.com/GrapeX1/grape-x1) 是一个开源的文件仓库。欢迎以任何方式浏览。欢迎遵照[许可证](README.md#License)的再分发和/或修改。欢迎相同[风格](docs/document-style-guide.md)的提交。
+
 ## 作者
 
 [GrapeX1](https://github.com/GrapeX1)，中文昵称：葡萄诚意，别名「葡萄X1」。
@@ -14,7 +16,7 @@ E-mail: <GrapeX1@163.com>
 
 ## 目录
 
-请浏览「[目录](docs/contents.md)」文档（docs/contents.md）。
+欲了解仓库内容，请浏览「[目录](docs/contents.md)」文档（docs/contents.md）。
 
 ## License
 
