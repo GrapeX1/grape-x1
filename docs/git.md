@@ -38,9 +38,20 @@ tags:
 1. 「[Git 五分钟教程 | 菜鸟教程](https://www.runoob.com/w3cnote/git-five-minutes-tutorial.html)」；
 1. 《[在适用于 Business Central 的 Visual Studio Code 中使用 Git 进行源代码管理](https://learn.microsoft.com/zh-cn/training/modules/work-source-control-git/)》。
 
-## 如何使用 GitHub
+## GitHub
 
-请浏览「[Github 简明教程 | 菜鸟教程](https://www.runoob.com/w3cnote/git-guide.html)」。
+GitHub 是一个基于云的平台，它的核心使用 Git。
+
+GitHub 是全球最大的 Git 仓库托管平台。
+
+GitHub 是全球 1 亿多名开发人员共同创造和作出改进的地方，无论你是在规划新功能、修复 bug，还是协作处理更改。
+
+### 如何使用 GitHub
+
+欲知如何使用 GitHub，请浏览：
+
+1. 「[Github 简明教程 | 菜鸟教程](https://www.runoob.com/w3cnote/git-guide.html)」。
+1. 「[GitHub 简介 - Training | Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/introduction-to-github/)」
 
 ## 参考
 
@@ -51,3 +62,5 @@ tags:
 [Github 简明教程 | 菜鸟教程](https://www.runoob.com/w3cnote/git-guide.html)
 
 [在适用于 Business Central 的 Visual Studio Code 中使用 Git 进行源代码管理](https://learn.microsoft.com/zh-cn/training/modules/work-source-control-git/)
+
+[GitHub 简介 - Training | Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/introduction-to-github/)
