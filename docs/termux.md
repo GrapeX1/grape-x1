@@ -24,6 +24,10 @@ Termux 是一个 Android 终端模拟器和 Linux 环境应用程序，无需 ro
 
 葡萄诚意使用 Termux 主要是为了在 Android 平台上使用 git 等软件。
 
+## 安装 Termux
+
+推荐使用 [F-Droid](fdroid.md) 安装 Termux。
+
 ## Termux 常用操作
 
 ### 访问内部存储
