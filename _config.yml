@@ -6,7 +6,7 @@ email: GrapeX1@163.com
 description: "这里是 @GrapeX1 的个人博客"
 keyword: "邹江, GrapeX1, 葡萄诚意, 邹江的博客, GrapeX1 Blog, 博客, 个人网站, 互联网, Web, 设计"
 #url: "https://" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/grape-x1" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
