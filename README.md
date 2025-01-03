@@ -25,3 +25,7 @@ E-mail: <GrapeX1@163.com>
 未经特别标注或声明，此仓库内程序根据由自由软件基金会发布的 [GNU 通用公共许可证版本 3](https://www.gnu.org/licenses/gpl-3.0.txt) 分发。
 
 未经特别标注或声明，此仓库内文档的版权许可为 [CC BY 4.0 ![](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg)![](https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg)](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)。
+
+## 致谢
+
+- 感谢 [Hux Blog](https://github.com/Huxpro/huxpro.github.io)。
