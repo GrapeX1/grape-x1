@@ -2,7 +2,7 @@
 title: GrapeX1 Blog
 SEOTitle: 葡萄诚意的博客 | GrapeX1 Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: GrapeX1@163.com
 description: "这里是 @GrapeX1 的个人博客"
 keyword: "邹江, GrapeX1, 葡萄诚意, 邹江的博客, GrapeX1 Blog, 博客, 个人网站, 互联网, Web, 设计"
 #url: "https://" # your host, for absolute URL
@@ -32,7 +32,6 @@ exclude:
     "Gruntfile.js",
     "package.json",
     "README.md",
-    "README-zh.md",
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
