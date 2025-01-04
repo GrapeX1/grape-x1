@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Termux——Linux 环境 app"
 author: GrapeX1
 description: "Termux 使用指南。"

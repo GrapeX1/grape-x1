@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "版本规范"
 author: GrapeX1
 description: "how to create version name"

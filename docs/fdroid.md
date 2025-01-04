@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "F-Droid——Android 开源软件应用商店"
 author: "GrapeX1"
 description: "F-Droid 使用指南。"

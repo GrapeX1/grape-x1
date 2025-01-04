@@ -8,15 +8,9 @@
 
 E-mail: <GrapeX1@163.com>
 
-葡萄诚意的部分特点为：
-
-- 男性；
-- 2000 年出生于中国湖南省；
-- 拥有医学学士学位。
-
 ## 目录
 
-欲了解仓库内容，请浏览「[目录](docs/contents.md)」文档（docs/contents.md）。
+欲了解仓库内容，请浏览 [Archive](https://grapex1.github.io/grape-x1/archive/) 页面或「[目录](docs/contents.md)」文档（docs/contents.md）。
 
 ## License
 

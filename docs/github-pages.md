@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "GitHub Pages"
 author: GrapeX1
 description: "GitHub Pages 使用指南"

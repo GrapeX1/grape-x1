@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 版权协议
 author: GrapeX1
 description: 开放源代码和知识共享的版权协议，可以保护创作者。

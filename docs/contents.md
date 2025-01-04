@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # 目录
 
 1. [版权协议](copyright-license.md)

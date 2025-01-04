@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Git——傻瓜式内容跟踪器"
 author: "GrapeX1"
 description: "Git 使用指南。"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "文档风格指南"
 author: GrapeX1
 description: "文档的写作规范。"
